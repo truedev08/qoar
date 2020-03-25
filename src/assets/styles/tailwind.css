@@ -1,0 +1,34 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* ---------------------------------- Responsive Design ---------------------------------- */
+
+/* Small (sm) */
+@media (min-width: 640px) { /* ... */ }
+
+/* Medium (md) */
+@media (min-width: 768px) { /* ... */ }
+
+/* Large (lg) */
+@media (min-width: 1024px) { /* ... */ }
+
+/* Extra Large (xl) */
+@media (min-width: 1280px) { /* ... */ }
+
+/* ---------------------------------- Background Animation ---------------------------------- */
+
+
+/* ---------------------------------- Drag and Drop ---------------------------------- */
+
+
+
+/* ----------------------------------------------------------------------- */
+
+.hashed {
+    margin: 0px auto 50px auto;
+    width: 410px;
+    word-wrap:break-word;
+}
